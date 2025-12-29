@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Carried Away",
+  "base_artist": "Kylie Minogue",
+  "createdAt": "2025-12-29T11:00:21.238548Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Carried Away",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/01_Carried_Away_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Carried Away (Album Version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/02_Carried_Away_(Album_Version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Carried Away - Edit",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Carried_Away_-_Edit_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Carried Away",
+      "artist": "Olivia Newton-John",
+      "has_synced": true,
+      "path": "select/04_Carried_Away_Olivia_Newton-John.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Get Carried Away",
+      "artist": "Busta Rhymes feat. Nas",
+      "has_synced": false,
+      "path": "select/05_Don't_Get_Carried_Away_Busta_Rhymes_feat._Nas.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Get Carried Away (feat. Nas)",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/06_Don't_Get_Carried_Away_(feat._Nas)_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Carried Away",
+      "artist": "French Kicks",
+      "has_synced": false,
+      "path": "select/07_Carried_Away_French_Kicks.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Carried Away (Dillon Francis Remix)",
+      "artist": "Passion Pit",
+      "has_synced": false,
+      "path": "select/08_Carried_Away_(Dillon_Francis_Remix)_Passion_Pit.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Get Carried Away - Album Version (Edited)",
+      "artist": "Busta Rhymes feat. Nas",
+      "has_synced": false,
+      "path": "select/09_Don't_Get_Carried_Away_-_Album_Version_(Edited)_Busta_Rhymes_feat._Nas.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Get Carried Away (Album Version)",
+      "artist": "Busta Rhymes, Nas",
+      "has_synced": false,
+      "path": "select/10_Don't_Get_Carried_Away_(Album_Version)_Busta_Rhymes,_Nas.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Carried Away",
+      "artist": "Passion Pit",
+      "has_synced": true,
+      "path": "select/11_Carried_Away_Passion_Pit.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Carried Away - Demo",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/12_Carried_Away_-_Demo_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Carried Away (Demo)",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/13_Carried_Away_(Demo)_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Carried Away",
+      "artist": "Newton-John, Olivia",
+      "has_synced": false,
+      "path": "select/14_Carried_Away_Newton-John,_Olivia.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Carried Away",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/15_Carried_Away_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Carried Away",
+      "artist": "Crosby, Stills & Nash",
+      "has_synced": true,
+      "path": "select/16_Carried_Away_Crosby,_Stills_&_Nash.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Carried Away - Tiësto Remix",
+      "artist": "Passion Pit",
+      "has_synced": true,
+      "path": "select/17_Carried_Away_-_Tiësto_Remix_Passion_Pit.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Carried Away",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/pl_01_Carried_Away_Kylie_Minogue.txt"
+    }
+  ]
+}
